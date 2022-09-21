@@ -1,4 +1,9 @@
 # Abuse_word_detect
+In this article, we will build the Hate speech detection project in Python.
+
+Hate speech detection is the model which identifies and detects the hateful and offensive speech being poured on the internet. Social media is a place for many people to make hateful and offensive comments about others. 
+
+Before moving into the implementation part directly, let us get an insight into the steps in building a Hate Speech detection project with Python.
 
 Steps in building Hate Speech detection using Machine Learning
 
